@@ -1,4 +1,28 @@
 ---
 layout: post
-title: 
+title: [Guide]วิธีเก็บวิชาพัด เพลงเตะ ดรรชนี และอาวุธ ของ Xiaoyao
 ---
+โพสนี้ยังอยู่กับเกม Tale of wuxia เรามาเก็บวิชากากแรกๆ ของสำนักเรากันเถอะ 
+
+ถ้าเงื่อนอันใดผ่านแล้ว ให้ Strolling อู้ไปเที่ยว ไปที่ Xiaoyao Valley ใน ช่วง early เดือน Nov ของปีแรกถึง end ของเดือน Feb ของปีที่สอง 
+  Xiaoyao Fan, req: 20+ short handle (Chores-Ink Milling can improve your short handle skill)
+  Xiaoyao Finger, req: 20+ finger style (Chore-laundry can improve finger skill)
+  Xiaoyao Leg, req: 20+ leg skill (Chore-Water Carrying can improve leg skill)
+
+ส่วนอาวุธลับนั้นให้ไปช่วง  early เดือน Nov ของปีแรกถึง early ของเดือน Nov ของปีที่สอง  ก็ให้ strolling ไปที่ Xiaoyao valley เหมือนเดิมแต่ต้องมีค่า 50 tea ceremony(ชงชา), 50+ internal(กำลังภายใน) ถึงจะได้
+
+ถ้าจะเก็บทุกวิชาคงไม่เข้าท่าแน่ครับ ควรเลือกวิชาอาวุธลับหรือข้ามพวกวิชาพัด เตะ ดรรชนีไปเลยครับ
+เพราะงานบ้านหรือกิจกรรมต่างๆในสำนัก ไม่มีอันไหนที่ทำแล้วเพิ่มความชำนาญอาวุธลับเลย ต้องฝึกกระบวนท่าเอาเหมือนกับกระบี่และหมัด อย่างเดียวอาวุธลับก็รู้กันอยู่เนอะปาได้จากที่ไหนๆเลย และถ้าเราเก็บวิชาอาวุธลับในอีเวนท์นี้เราจะได้ อาวุธลับมาเป็นของแถม +10% critical attack rate, ฟิ้นเลือดหลังจบ turn 10-15% ถึงวิชาจะกากแต่ของแถมดีนะ  
+
+![_config.yml]({{ site.baseurl }}/images/.jpg)
+![_config.yml]({{ site.baseurl }}/images/.jpg)
+
+แถมอีกนิดนึงความกำลังภายใน Art of the Eastern Sky จะขายใน shop ช่วง early Nov ของปีแรก อันนี้พลาดแล้วพลาดเลยครับ
+![_config.yml]({{ site.baseurl }}/images/.jpg)
+
+และสูตรอาวุธจากจารย์ Hu ต้องมีความความสัมพันธ์ความรักกับแกให้ได้ 50, 70, 90 ตั้งแต่ middle Dec ของปีแรกจนถึงจบเกม(ตั้งแต่เราสร้างอาวุธได้นั้นแหละ ค่าความรักสูงแล้วค่อยไปคุยกับแกที่ Xiaoyao Valley
+ค่าความรักยิ่งสูงยิ่งได้สูตรสร้างอาวุธเมพๆในช่วงต้นเกมได้ แต่ในช่วงต้นเกมนั้นวิธีเดียวถึงจะเพิ่มค่าความรักได้คือซักผ้านะจ๊ะ 
+ถ้าไม่รีบก็รอไปก่อนดองไปก่อนเหมือนวิชาเมพเก้ากระบี่ ไม้หมา ฝ่าอรหัน เลือกได้มาแล้วก็ยังใช้ไม่ได้ 5555+
+![_config.yml]({{ site.baseurl }}/images/.jpg)
+
+อ้างอิงข้อมูลจาก (http://steamcommunity.com/sharedfiles/filedetails/?id=678428379)
